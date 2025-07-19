@@ -14,6 +14,10 @@ The interactive web application is deployed on Streamlit Community Cloud. You ca
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://heart-disease-prediction-dashboard.streamlit.app/)
 
+
+### 🖼️ Dashboard Preview
+
+<img width="1918" height="896" alt="image" src="https://github.com/user-attachments/assets/31825eeb-05ca-478b-90c6-52888b0ec74c" />
 ---
 
 ## 🎯 Project Overview
@@ -66,7 +70,7 @@ Follow these steps to set up and run the application on your own machine.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/Heart-Disease-Prediction-App.git](https://github.com/Divyansh-debug/Heart-Disease-Classification-Project.git)
+    git clone https://github.com/Divyansh-debug/Heart-Disease-Classification-Project.git
     cd Heart-Disease-Classification-Project
     ```
 
